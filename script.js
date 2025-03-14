@@ -1,4 +1,4 @@
-const sounds = ["applause", "boo", "gasp", "tada", "victory", "wrong"];
+let sounds = ["applause", "boo", "gasp", "tada", "victory", "wrong"];
 
 const buttonsContainer = document.getElementById("buttons");
 
